@@ -1,0 +1,6 @@
+x = input("who had the misfortune to be born onto this cursed world of HELL AND FIRE AND PAIN AND MISEY AHHHHHHHHH? ")
+print("\n")
+print("Happy birthday to you!")
+print("Happy birthday to you!")
+print("Happy birthday dear " + x)
+print("Happy birthday to you!")
